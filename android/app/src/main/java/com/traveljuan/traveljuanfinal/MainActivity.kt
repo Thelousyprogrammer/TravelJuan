@@ -1,4 +1,4 @@
-package com.anonymous.TravelJuanFinal
+package com.traveljuan.traveljuanfinal
 import expo.modules.splashscreen.SplashScreenManager
 
 import android.os.Build

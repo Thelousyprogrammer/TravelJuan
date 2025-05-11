@@ -1,4 +1,4 @@
-package com.anonymous.TravelJuanFinal
+package com.traveljuan.traveljuanfinal
 
 import android.app.Application
 import android.content.res.Configuration
